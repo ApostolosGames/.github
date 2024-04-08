@@ -1,6 +1,6 @@
 **About Apostolos**
 
-Apostolos is an indie game development company with a two-member team. Our focus is on creating engaging games with unique gameplay mechanics. Currently, we're developing Celesterra, a game that combines crafting, mining, and boss battles in a 3D environment, inspired by games like Terraria but with our distinctive approach.
+Apostolos is an indie game development company with a two-member team. Our focus is on creating engaging games with unique gameplay mechanics. Currently, we're developing Celesterra, a game that combines crafting, mining, and boss battles in a 3D environment, inspired by games like Terraria but with our own approach.
 
 **Celesterra**
 
