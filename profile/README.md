@@ -10,7 +10,9 @@ Celesterra is our main project, designed to offer an expansive 3D world for play
 **Features**
 
 3D World: Celesterra offers a fully 3D setting for exploration and adventure.
+
 Crafting & Building: Players can gather resources to craft tools and build structures.
+
 Mining: The game includes a dynamic mining system that adds depth and strategy to resource gathering.
 Boss Battles: Players will encounter and battle various bosses, each presenting unique challenges along with unique rewards.
 
