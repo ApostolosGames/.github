@@ -16,6 +16,8 @@ Crafting & Building: Players can gather resources to craft tools and build struc
 Mining: The game includes a dynamic mining system that adds depth and strategy to resource gathering.
 Boss Battles: Players will encounter and battle various bosses, each presenting unique challenges along with unique rewards.
 
+Combat: There are many different types of enemies and bosses to encounter! Each drop unique weapons and equipment!
+
 **Contact Us**
 
 For more information or to follow our development process, feel free to reach out. We appreciate your interest in Apostolos and Celesterra.
